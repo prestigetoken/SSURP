@@ -29,7 +29,7 @@
     },
     "maps" : [
         {
-            "name": "satillight",
+            "name": "Normal",
             "url": "{tileDirectory}/normal/minimap_sea_{y}_{x}.png",
             "minZoom": -2 // Set lower to zoom out more
         },
